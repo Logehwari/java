@@ -1,4 +1,9 @@
+import java.io.*;
+import java.util.*;
 
+class UserManiCode
+{
+   public int fact(int input1){
 		int fact=1;
 		if(input1 == 0)
 		{
