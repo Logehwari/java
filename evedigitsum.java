@@ -1,3 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+class UserManiCode
+{
+   public int isEven(int input1){
 int st1=0, esum=0, osum=0;
 		while(input1!=0)
 		{
