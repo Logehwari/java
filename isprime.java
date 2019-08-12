@@ -1,3 +1,10 @@
+import java.io.*;
+import java.util.*;
+
+class UserManiCode
+{
+   public int isEven(int input1){
+
 int count=0;
 		int sr = input1 / 2;
 		if(input1>1){
