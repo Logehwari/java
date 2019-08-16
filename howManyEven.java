@@ -1,4 +1,12 @@
- int s1, count=0,count1=0;
+import java.io.*;
+import java.util.*;
+
+class UserManiCode
+{
+   public int howManyEven(int input1, int input2){
+
+
+int s1, count=0,count1=0;
 		int[] arr = {input1, input2, input3, input4, input5};
 		for(int i=0; i<5; i++)
 		{
