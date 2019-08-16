@@ -1,4 +1,9 @@
+import java.io.*;
+import java.util.*;
 
+class UserManiCode
+{
+   public int fibo(int input1){
 
 
 return fib(input1-1);
