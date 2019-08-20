@@ -1,3 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+class UserManiCode
+{
+   public int 16UniqueDigits(int input1){
 
 int a[] = new int[10];
 		for(int i=0;i<10;i++)
