@@ -1,5 +1,10 @@
 
+import java.io.*;
+import java.util.*;
 
+class UserManiCode
+{
+   public int 20scndwrdupper(int input1){
 
 int x1=input1.indexOf(" ");
         String s2=input1.substring(x1+1);
